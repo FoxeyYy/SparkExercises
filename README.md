@@ -38,7 +38,7 @@ Given a dataset which consists of the following files:
 
 We count the total amount of money spent by each user, which users have bought more than once per day and the list of those dates and for each product the total number of units sold.
 
-## Bakery
+## Market Basket Analysis
 For a any given file with lines like:
 
 _Product1,Product2,...,Productn_
